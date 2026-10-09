@@ -28,7 +28,7 @@ An intelligent traffic prediction and simulation model leveraging Artificial Int
 
 ---
 
-## 🚀 About The Project
+## About The Project
 
 Traffic congestion is a critical challenge in modern urban planning. **AI-Traffic-Model** aims to solve this by providing data-driven insights and predictive forecasting for traffic density and flow. By processing historical traffic data and leveraging state-of-the-art algorithms, this model assists in forecasting bottlenecks and optimizing route planning.
 
